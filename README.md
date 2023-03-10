@@ -1,1 +1,3 @@
 # devhub
+
+- [FAQs](./faqs)
